@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex SQLite Log Guard"
+  short_description: "Diagnose and safely reduce Codex SQLite log writes"
+  default_prompt: "Use $codex-sqlite-log-guard to inspect Codex SQLite logging, propose a safe fix, and verify it."
